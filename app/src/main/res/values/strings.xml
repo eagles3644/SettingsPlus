@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SettingsPlus</string>
+    <string name="title_section1">Profile Fragment</string>
+    <string name="title_section2">Trigger Fragment</string>
+    <string name="title_section3">Log Fragment</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="prof_add_content_desc">Add New Profile</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="action_example">Example action</string>
+    <string name="string_on">ON</string>
+    <string name="string_off">OFF</string>
+    <string name="auto_bright">Screen Auto Bright:</string>
+    <string name="action_delete">Delete</string>
+    <string name="man_bright">Manual Screen Bright:</string>
+    <string name="ringtone_label">Ringtone:</string>
+    <string name="notification_label">Notification Tone:</string>
+
+</resources>

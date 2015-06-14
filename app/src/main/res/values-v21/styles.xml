@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="android:Theme.Material.Light">
+        <item name="android:colorPrimary">@color/myPrimaryColor</item>
+        <item name="android:colorPrimaryDark">@color/myPrimaryColorDark</item>
+        <item name="android:colorAccent">@color/myAccentColor</item>
+        <item name="android:textColorPrimary">@color/myPrimaryTextColor</item>
+        <item name="android:textColorPrimaryInverse">@color/myPrimaryTextColorInverse</item>
+        <item name="android:navigationBarColor">@color/myPrimaryColor</item>
+        <item name="android:popupTheme">@style/myMenuStyle</item>
+        <item name="android:switchTextOff">@color/myPrimaryColor</item>
+    </style>
+
+    <style name="myMenuStyle" parent="android:Theme.Material.Light">
+        <item name="android:textColorPrimary">@color/myPrimaryTextColorInverse</item>
+    </style>
+</resources>
